@@ -1,7 +1,7 @@
-<!-- Mega Intan Pratiwi -->
-<!-- NIM 20051397007 -->
-<!-- D4 Manajemen Informatika -->
-<!-- 2020 A -->
+<!-- Mega Intan Pratiwi
+NIM 20051397007
+D4 Manajemen Informatika
+2020 A -->
 
 <!DOCTYPE HTML>  
 <html>
