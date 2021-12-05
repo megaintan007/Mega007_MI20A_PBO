@@ -1,5 +1,5 @@
 <?php
-require_once '../Project/class.php';
+require_once '../Project_UAS/class.php';
 ?>
 
 <!doctype html>
@@ -29,18 +29,18 @@ require_once '../Project/class.php';
                             <?= $hp1->hp(); ?>
                      </div>
                      <div class="col">
-                            <img src="../Project/image/Lenovo.jpg" style="width:105px">
+                            <img src="../Project_UAS/image/Lenovo.jpg" style="width:105px">
                             <br>
                             <?= $laptop1->laptopGadget(); ?>
                      </div>
                      <div class=" col">
                             <h5>____________________________</h5>
-                            <img src="../Project/image/print.jpg" style="width:90px">
+                            <img src="../Project_UAS/image/print.jpg" style="width:90px">
                             <br> <?= $printer1->printer(); ?>
                      </div>
                      <div class="col">
                             <h5>____________________________</h5>
-                            <img src="../Project/image/tv.jpg" style="width:100px">
+                            <img src="../Project_UAS/image/tv.jpg" style="width:100px">
                             <br> <?= $televisi1->televisi(); ?>
                      </div>
               </div>
