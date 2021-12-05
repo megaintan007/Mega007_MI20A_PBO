@@ -24,7 +24,7 @@ require_once '../Project_UAS/class.php';
        <div>
               <div class="row row-cols-2">
                      <div class="col">
-                            <img src="../Project/image/iphone.png" style="width:50px;">
+                            <img src="../Project_UAS/image/iphone.png" style="width:50px;">
                             <br>
                             <?= $hp1->hp(); ?>
                      </div>
